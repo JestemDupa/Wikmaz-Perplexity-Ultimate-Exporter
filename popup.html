@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { width: 310px; font-family: 'Segoe UI', Tahoma, sans-serif; padding: 15px; background: #121212; color: #ffffff; margin: 0; }
+    h3 { margin-top: 0; text-align: center; font-size: 18px; color: #2dd4bf; margin-bottom: 5px; }
+	p { font-size: 12px; text-align: center; color: #a1a1aa; margin-bottom: 15px; }
+    button { width: 100%; padding: 12px; font-size: 14px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; transition: all 0.2s; margin-bottom: 10px; }
+    #startBtn { background: #6d28d9; color: white; }
+    #startBtn:hover { background: #5b21b6; }
+    #stopBtn { background: #dc2626; color: white; display: none; }
+    #stopBtn:hover { background: #b91c1c; }
+    #status { font-size: 13px; color: #facc15; text-align: center; font-weight: 500; min-height: 20px; margin-bottom: 10px; }
+    progress { width: 100%; height: 10px; border-radius: 5px; display: none; }
+    progress::-webkit-progress-bar { background-color: #27272a; border-radius: 5px; }
+    progress::-webkit-progress-value { background-color: #2dd4bf; border-radius: 5px; }
+    
+    .footer { margin-top: 15px; padding-top: 12px; border-top: 1px solid #27272a; text-align: center; }
+    .support-links { display: flex; flex-direction: column; gap: 8px; margin-bottom: 8px; }
+    .support-link { color: #a1a1aa; text-decoration: none; font-size: 11px; transition: color 0.2s; display: inline-flex; align-items: center; justify-content: center; gap: 5px;}
+    .support-link:hover { color: #2dd4bf; }
+    .brand { font-size: 10px; color: #52525b; margin-top: 5px; }
+  </style>
+</head>
+<body>
+  <h3>Wikmaz - Perplexity Ultimate Export</h3>
+  <p>Full automation for RAG pipelines.</p>
+  
+  <div id="status">Ready to work</div>
+  <progress id="progressBar" value="0" max="100"></progress>
+  
+  <button id="startBtn">Start Export</button>
+  <button id="stopBtn">Stop Process</button>
+  
+  <div class="footer">
+    <div class="support-links">
+      <a href="https://ko-fi.com/wikmaz" target="_blank" class="support-link">
+        ☕ Support via Ko-fi (Global)
+      </a>
+      <a href="https://suppi.pl/wikmaz" target="_blank" class="support-link">
+        ❤️ Support via Suppi (Poland)
+      </a>
+    </div>
+    <div class="brand">Created by Wikmaz</div>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>

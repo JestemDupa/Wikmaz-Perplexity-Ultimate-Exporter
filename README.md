@@ -1,2 +1,41 @@
-# Wikmaz-Perplexity-Ultimate-Exporter
-🚀 1-Click Chrome Extension to export your Perplexity.ai chat history to RAG-ready Markdown files. Extracts hidden AI reasoning logs and cache dumps. Zero telemetry.
+# 🚀 Perplexity Ultimate Exporter
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Pending-green.svg)](#)
+
+A powerful, 100% private Google Chrome extension built for AI engineers, researchers, and RAG enthusiasts. Export your entire Perplexity.ai chat history to clean, formatted Markdown (`.md`) files with a single click.
+
+📺 **[Watch the Promo & Demo on YouTube](https://youtu.be/R32HgoHrTK0)**
+
+## ✨ Key Features
+- **1-Click Export:** Download your active chat instantly.
+- **Hidden Logs Extraction:** The *only* tool that extracts hidden "AI Step Logs" and background operations.
+- **Cache Dump Recovery:** Retrieves system cache and stack trace errors directly from the Perplexity environment.
+- **RAG-Ready:** Perfectly formatted Markdown files, ready to be ingested by local LLMs (Ollama, vLLM, etc.).
+- **Smart Organization:** Automatically saves files into a structured `Perplexity_Export/[Space_Name]` directory in your Downloads folder.
+- **Zero Telemetry:** 100% local operation. No data is sent to external servers.
+
+## 🛠️ Installation
+
+### Option 1: Chrome Web Store (Recommended)
+*Link coming soon once approved by Google!*
+
+### Option 2: Manual Installation (Developer Mode)
+1. Download or clone this repository: `git clone https://github.com/wikmaz/perplexity-ultimate-exporter.git`
+2. Open Google Chrome and navigate to `chrome://extensions/`
+3. Enable **"Developer mode"** in the top right corner.
+4. Click **"Load unpacked"** and select the folder containing the extension files.
+5. Pin the extension to your toolbar and visit Perplexity.ai!
+
+## 🤝 Support the Project
+If this tool saved you hours of manual copying and pasting, consider supporting my open-source work!
+
+* ☕ **Global:** [Buy me a coffee on Ko-fi](https://ko-fi.com/wikmaz)
+* ❤️ **Poland:** [Support me via Suppi](https://suppi.pl/wikmaz)
+
+## 👨‍💻 Author
+**Michał Słowiński (Wikmaz)** * IT Engineer & Software Developer  
+* 🌐 [wikmaz.pl](https://wikmaz.pl)
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
