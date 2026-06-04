@@ -1,7 +1,7 @@
-# 🚀 Perplexity Ultimate Exporter
+# 🚀 Wikmaz Perplexity Ultimate Exporter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Pending-green.svg)](#)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/acdhhkoomfgimeidaplkejmobomichhj.svg?label=Chrome%20Web%20Store&color=blue)](https://chrome.google.com/webstore/detail/acdhhkoomfgimeidaplkejmobomichhj)
 
 A powerful, 100% private Google Chrome extension built for AI engineers, researchers, and RAG enthusiasts. Export your entire Perplexity.ai chat history to clean, formatted Markdown (`.md`) files with a single click.
 
@@ -18,7 +18,8 @@ A powerful, 100% private Google Chrome extension built for AI engineers, researc
 ## 🛠️ Installation
 
 ### Option 1: Chrome Web Store (Recommended)
-*Link coming soon once approved by Google!*
+The extension is officially live! You can install it directly from the Google Chrome Web Store:
+👉 **[Download Wikmaz Perplexity Ultimate Exporter](https://chrome.google.com/webstore/detail/acdhhkoomfgimeidaplkejmobomichhj)**
 
 ### Option 2: Manual Installation (Developer Mode)
 1. Download or clone this repository: `git clone https://github.com/wikmaz/perplexity-ultimate-exporter.git`
@@ -34,7 +35,7 @@ If this tool saved you hours of manual copying and pasting, consider supporting 
 * ❤️ **Poland:** [Support me via Suppi](https://suppi.pl/wikmaz)
 
 ## 👨‍💻 Author
-**Michał Słowiński (Wikmaz)** * IT Engineer & Software Developer  
+**Michał Słowiński (Wikmaz)** * IT Engineer, Systems Architect & Software Developer  
 * 🌐 [wikmaz.pl](https://wikmaz.pl)
 
 ## 📄 License
