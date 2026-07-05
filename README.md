@@ -17,9 +17,11 @@ A powerful, 100% private Google Chrome extension built for AI engineers, researc
 
 ## 🛠️ Installation
 
-### Option 1: Chrome Web Store (Recommended)
+### Option 1: Chrome Web Store (Recommended) && Firefox Addons
 The extension is officially live! You can install it directly from the Google Chrome Web Store:
-👉 **[Download Wikmaz Perplexity Ultimate Exporter](https://chrome.google.com/webstore/detail/acdhhkoomfgimeidaplkejmobomichhj)**
+👉 ** Chrome/Edge [Download Wikmaz Perplexity Ultimate Exporter](https://chrome.google.com/webstore/detail/acdhhkoomfgimeidaplkejmobomichhj)**
+👉 **Firefox [Download Wikmaz Perplexity Ultimate Exporter](https://addons.mozilla.org/en-US/firefox/addon/wikmaz-perplexity-export/)**
+
 
 ### Option 2: Manual Installation (Developer Mode)
 1. Download or clone this repository: `git clone https://github.com/wikmaz/perplexity-ultimate-exporter.git`
