@@ -23,7 +23,6 @@ The extension is officially live! You can install it directly from the Google Ch
 
 👉 ** Chrome/Edge [Download Wikmaz Perplexity Ultimate Exporter](https://chrome.google.com/webstore/detail/acdhhkoomfgimeidaplkejmobomichhj)**
 
-👉 ** Firefox [Download Wikmaz Perplexity Ultimate Exporter](https://addons.mozilla.org/en-US/firefox/addon/wikmaz-perplexity-export/)**
 
 
 ### Option 2: Manual Installation (Developer Mode)
